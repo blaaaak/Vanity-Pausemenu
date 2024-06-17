@@ -2,6 +2,8 @@
 
 A simple and customizable standalone pause menu replacement for FiveM.
 
+![image](https://github.com/blaaaak/Vanity-Pausemenu/assets/103514165/81f31083-0fb6-4289-bd87-a3260d519c0f)
+
 ## Features
 
 - **Simple Configuration**: Easy to set up and modify.
