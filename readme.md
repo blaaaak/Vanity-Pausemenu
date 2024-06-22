@@ -33,4 +33,4 @@ A simple and customizable standalone pause menu replacement for FiveM.
 
 6. **Enjoy**:
 
-For support, questions, or suggestions, visit our [Discord](https://discord.vanitdesigns.xyz).
+For support, questions, or suggestions, visit our [Discord](https://discord.vanitydesigns.xyz).
