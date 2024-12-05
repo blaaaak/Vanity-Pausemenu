@@ -47,7 +47,7 @@ CreateThread(function()
     SetPauseMenuActive(
       false
     )
-    if IsControlPressed(0, 200) and GetCurrentFrontendMenuVersion() == -1 then
+    if IsControlPressed(0, 200) and GetCurrentFrontendMenuVersion() == -1 and not IsNuiFocused() then
       toggleNuiFrame(true)
     end
     Wait(1)
